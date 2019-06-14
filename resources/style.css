@@ -10,9 +10,13 @@ body {
   font-size: 16px;
 }
 
+header a:link {color:#0A0E35;}
+header a:active {color:#0A0E35;}
 header a:visited {color:#0A0E35;}
 header a:hover {color:#C1E6FF;}
 
+.section1 a:link {color:#0A0E35;}
+.section1 a:active {color:#0A0E35;}
 .section1 a:visited {color:#0A0E35;}
 .section1 a:hover {color:#0A0E35;}
 
@@ -436,6 +440,9 @@ header nav {
   display: flex;
 }
 
+.section3 a:link {color:#C1E6FF;}
+.section3 a:active {color:#C1E6FF;}
+.section3 a:hover {color:#C1E6FF;}
 .section3 a:visited {color:#C1E6FF;}
 
 .headline2{
@@ -478,6 +485,8 @@ header nav {
     font-weight: bold;
     text-decoration: none;
   }
+  .section3 a:link {color:#0A0E35;}
+  .section3 a:active {color:#0A0E35;}
   .section3 a:visited {color:#0A0E35;}
   .section3 a:hover {color:#0A0E35;}
 
@@ -504,6 +513,8 @@ footer {
   color: #0A0E35;
 }
 
+footer a:link {color:#0A0E35;}
+footer a:active {color:#0A0E35;}
 footer a:visited {color:#0A0E35;}
 footer a:hover {color:#C1E6FF;}
 
